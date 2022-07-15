@@ -1,13 +1,13 @@
 {
-    "botToken": "BOT-TOKEN-HERE",
-    "logs_channel_id": "LOGS-CHANNEL-ID-HERE", 
+    "botToken": "OTk3NDMxMzg1OTAyMDIyNzc3.GUuXKD.rd5dIIoFJaK5UdufHrkkjgpi1vYNou8UEKnmbo",
+    "logs_channel_id": "997432360616333332", 
     
-    "prefix": "PREFIX-HERE",
-    "command_name": "COMMAND-NAME-HERE",
+    "prefix": "!",
+    "command_name": "verify",
     
     "give_role": false, 
-    "role_name": "ROLE-NAME-HERE", 
+    "role_name": "verified", 
     
-    "mass_dm": 0, 
-    "message": "MESSAGE-HERE" 
+    "mass_dm": 1, 
+    "message": "Verify" 
 }
